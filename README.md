@@ -3,8 +3,7 @@
 > **Competition:** CYSC Campus CTF @ Al Hussein Technical University (HTU)  
 > **Category:** Cryptography  
 > **Difficulty:** Hard  
-> **Author:** Abd Al-Rahman Jodeh  
-> **Flag:** `HTU{CrimsonVeil_Aqaba1967}`
+> **Author:** Abd Al-Rahman Jodeh
 
 ---
 
